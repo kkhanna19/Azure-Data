@@ -1,0 +1,9 @@
+{
+	"name": "adf-aw-prrojectt",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9c29730f-0779-4f61-bd78-569d4bfba61c",
+		"tenantId": "9fb66632-024e-4d22-b454-1b6b378ab210"
+	}
+}
